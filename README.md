@@ -6,7 +6,7 @@
 
 # Screenshot
 
-![A gif of the running application](./Outside_Work/Homework/Homework_6/Assets/Weather_Dashboard.gif)
+![A gif of the running application](./Assets/Weather_Dashboard.gif)
 
 # Deployed Application
 
